@@ -12,4 +12,4 @@ A simple, customizable logger for Go projects.
 ## Installation
 
 ```bash
-go get github.com/<your-username>/go-logger
+go get github.com/Creative-genius001/go-logger
