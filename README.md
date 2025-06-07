@@ -8,6 +8,7 @@ A simple, customizable logger for Go projects.
 - Structured logging with fields
 - Thread-safe
 - Standard library compatible interface
+- Colored logs for different log levels
 
 ## Installation
 
