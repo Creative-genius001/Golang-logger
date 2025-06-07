@@ -1,2 +1,15 @@
-# Golang-logger
-my logger for golang applications
+# Go Logger
+
+A simple, customizable logger for Go projects.
+
+## Features
+
+- Multiple log levels (Debug, Info, Warn, Error, Fatal)
+- Structured logging with fields
+- Thread-safe
+- Standard library compatible interface
+
+## Installation
+
+```bash
+go get github.com/<your-username>/go-logger
